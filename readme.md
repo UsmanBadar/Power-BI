@@ -8,7 +8,7 @@ Each project folder contains the `.pbix` file, screenshots, and a README coverin
 
 ## Projects
 
-### [Superstore Sales Performance & Forecasting](/Superstore Sales Performance & Forecasting)
+### [Superstore Sales Performance & Forecasting](./Superstore%20Sales%20Performance%20%26%20Forecasting)
 
 Sales report on the Kaggle Superstore dataset (2014–2017). Built Star schema with four dimensions, DAX time intelligence, and a 12-month revenue forecast with confidence bands.
 
